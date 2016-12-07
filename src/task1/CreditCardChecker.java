@@ -141,8 +141,9 @@ public class CreditCardChecker extends javax.swing.JFrame {
 
     private void txtClearActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtClearActionPerformed
         // set all the field to default
-        txtInput.setText("");
+        txtInput.setText(""); //testing
         txtInput.requestFocus();
+        //+++
     }//GEN-LAST:event_txtClearActionPerformed
 
     /**
